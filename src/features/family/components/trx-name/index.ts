@@ -1,0 +1,7 @@
+export * from './family-trx-name-action-cell'
+export * from './family-trx-name-assign-tab-content'
+export * from './family-trx-name-details-tab-content'
+export * from './family-trx-name-form'
+export * from './family-trx-name-table-columns'
+export * from './family-trx-name-update-tab-content'
+export * from './family-trx-name-tab-content'
